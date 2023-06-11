@@ -1,0 +1,5 @@
+openai==0.27.0
+chatgpt==2.2212.0
+discord.py==2.1.1
+aiohttp
+transformers==4.27.2
