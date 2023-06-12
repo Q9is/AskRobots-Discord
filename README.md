@@ -25,8 +25,8 @@ docker build -t askrobots-discord .
 ### Run
 
 To run the bot, you need to supply it with the necessary environment variables. 
-This can be done using an environment file (`.env`). Once you've set up your 
-`.env` file, run:
+This can be done using an environment file (`.env`). Example included in this repo
+as .env.sample. Once you've set up your `.env` file, run:
 
 ```bash
 docker run --env-file .env askrobots-discord
